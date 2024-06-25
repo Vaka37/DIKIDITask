@@ -11,7 +11,7 @@ import SwiftUI
 struct DIKIDIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TabBarMain()
         }
     }
 }
